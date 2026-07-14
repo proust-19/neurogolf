@@ -12,7 +12,7 @@ When no exact solver works, falls back to `Conv2d` weight fitting via least-squa
 
 ## Score
 
-**7,000 / 10,000** on Kaggle leaderboard (top 30%)
+**7,267.99 / 10,000** on Kaggle leaderboard (top 30%)
 
 ## Key Files
 
